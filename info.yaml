@@ -1,8 +1,8 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     45757309539050086                # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     457573095390500865              # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Tiny Tapeout Workshop Counter"  # Project title
-  author:       "Yiğit Duman"                    # Your name
+  author:       "Yigit Duman"                    # Your name
   discord:      ""                               # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Counts from 1 to 8"             # One line description of what your project does
   language:     "Wokwi"                          # other examples include SystemVerilog, Amaranth, VHDL, etc
